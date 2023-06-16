@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Determine if number is positive, nefative or zero.
+ * main - Determine if number is positive, negative or zero.
  *
  * Return: Always 0 (Success)
  */
